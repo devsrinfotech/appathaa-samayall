@@ -1100,7 +1100,7 @@ button, .tab-content .tab-pane.active, .global-overlay, .quantity .cart-plus-min
   -webkit-box-shadow: 0px 0 15px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 0 15px rgba(0, 0, 0, 0.2);
   color: #ffffff !important;
-  background-color: #09823F;
+  background-color: #ffb740;
 }
 .template-color-1 .main-slider .slick-arrow {
   color: #09823F;
@@ -2126,7 +2126,7 @@ button, .tab-content .tab-pane.active, .global-overlay, .quantity .cart-plus-min
   right: 0;
   opacity: 1;
   visibility: visible;
-  padding: 105px 0 0;
+  padding: 40px 0 0;
 }
 
 /* ---Offcanvas Close Button--- */
@@ -2158,7 +2158,7 @@ button, .tab-content .tab-pane.active, .global-overlay, .quantity .cart-plus-min
           box-shadow: none;
 }
 .btn-close:hover {
-  background-color: #09823F;
+  background-color: #ffb740;
   opacity: 1;
 }
 .btn-close:hover > i {
