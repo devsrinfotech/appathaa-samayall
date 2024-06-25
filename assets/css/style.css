@@ -1986,6 +1986,7 @@ button, .tab-content .tab-pane.active, .global-overlay, .quantity .cart-plus-min
 @media screen and (max-width: 767px) {
   .munoz-btn-ps_left {
   display: block;
+  padding-right: 15px;
   }
 }
 
